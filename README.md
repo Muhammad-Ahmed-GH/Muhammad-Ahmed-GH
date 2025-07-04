@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Muhammad-Ahmed-GH/Muhammad-Ahmed-GH/main/ChatGPT Image Jul 4, 2025, 02_24_32 PM (1).png">
 <h1 align="center">Hi there, I'm Muhammad Ahmed 👋</h1>
 <p align="center">
   💻 Computer Science Student | 💡 Problem Solver | 🚀 Aspiring Full-Stack Developer
