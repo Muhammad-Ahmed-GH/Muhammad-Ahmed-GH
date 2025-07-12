@@ -65,7 +65,7 @@
 ## 📌 Extras
 
 - 📈 GPA: **4.0**
-- 🌱 Currently learning **CSS** and exploring **JavaScript** soon
+- 🌱 Currently learning **CSS** and **JavaScript**
 
 ---
 
