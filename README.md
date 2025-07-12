@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Muhammad-Ahmed-GH/Muhammad-Ahmed-GH/main/GitHub_Picture.png" width="40%">
 </div>
 <p align="center">
-  💻 Computer Science Student | 💡 Problem Solver | 🚀 Aspiring Full-Stack Developer
+  💻 Computer Science Student | 💡 Problem Solver | 🚀 Aspiring Front-End Developer
 </p>
 
 ---
