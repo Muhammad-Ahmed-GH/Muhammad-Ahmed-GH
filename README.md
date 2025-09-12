@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Second-year CS student at Nile University**
+- 🎓 **Third-year CS student at Nile University**
 - 🏅 Passionate about building efficient, clean, and elegant solutions
 - 🧠 Focused on mastering **Data Structures**, **Algorithms**, and **OOP** before specializing in **Web Development**
 - 💻 Strong background in:  
