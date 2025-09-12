@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Muhammad Ahmed 👋</h1>
 <div align="center">
-<img src="https://raw.githubusercontent.com/Muhammad-Ahmed-GH/Muhammad-Ahmed-GH/main/GitHub_Picture.png" width="40%">
+<img src="https://raw.githubusercontent.com/Muhammad-Ahmed-GH/Muhammad-Ahmed-GH/main/GitHub_Picture.png" width="60%">
 </div>
 <p align="center">
   💻 Computer Science Student | 💡 Problem Solver | 🚀 Aspiring Front-End Developer
