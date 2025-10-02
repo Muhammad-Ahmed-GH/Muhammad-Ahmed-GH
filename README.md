@@ -12,18 +12,33 @@
 
 - 🎓 **Third-year CS student at Nile University**
 - 🏅 Passionate about building efficient, clean, and elegant solutions
-- 🧠 Focused on mastering **Data Structures**, **Algorithms**, and **OOP** before specializing in **Web Development**
+- 🌐 Focused on **Web Development**
 - 💻 Strong background in:  
 
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/></a> </p>
-
-  <!-- ![C++](https://img.shields.io/badge/C++-FF0000?style=round-square&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-0ABAB5?style=round-square&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=round-square&logo=java&logoColor=white)
-  ![C](https://img.shields.io/badge/C-4E71FF?style=round-square&logo=c&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-4E71FF?style=round-square&logo=css3&logoColor=white)
-  -->
+<!-- with icons -->
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/C++-FF0000?style=round-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0ABAB5?style=round-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=round-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-4E71FF?style=round-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-264DE4?style=round-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=github&logoColor=white" />
+</p> -->
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=round-square" />
+  <img src="https://img.shields.io/badge/CSS-264DE4?style=round-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=round-square" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=round-square" />
+  <img src="https://img.shields.io/badge/C++-FF0000?style=round-square" />
+  <img src="https://img.shields.io/badge/Python-0ABAB5?style=round-square" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=round-square" />
+  <img src="https://img.shields.io/badge/C-4E71FF?style=round-square" />
+</p>
 ---
 
 ## 🚀 Projects
