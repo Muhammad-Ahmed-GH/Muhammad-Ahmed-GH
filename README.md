@@ -28,17 +28,18 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=github&logoColor=white" />
 </p> -->
   
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=round-square" />
-  <img src="https://img.shields.io/badge/CSS-264DE4?style=round-square" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=round-square" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=round-square" />
-  <img src="https://img.shields.io/badge/C++-FF0000?style=round-square" />
-  <img src="https://img.shields.io/badge/Python-0ABAB5?style=round-square" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=round-square" />
-  <img src="https://img.shields.io/badge/C-4E71FF?style=round-square" />
-</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=round-square" />
+    <img src="https://img.shields.io/badge/CSS-264DE4?style=round-square" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=round-square" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=round-square" />
+    <img src="https://img.shields.io/badge/C++-FF0000?style=round-square" />
+    <img src="https://img.shields.io/badge/Python-0ABAB5?style=round-square" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=round-square" />
+    <img src="https://img.shields.io/badge/C-4E71FF?style=round-square" />
+  </p>
+
 ---
 
 ## 🚀 Projects
