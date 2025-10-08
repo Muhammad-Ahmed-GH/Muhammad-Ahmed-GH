@@ -44,18 +44,14 @@
 
 ## 🚀 Projects
 
-> 🔧 Some of my projects are **command-line based** focusing on logic, performance, and OOP principles.
-
 | Project Name | Language | Description | Link |
 |--------------|----------|-------------|------|
-| 🧾 Student Management System | Java | A system with GUI to manage student records | <a href="https://github.com/Muhammad-Ahmed-GH/Student_Record_Management_System_Java">Go</a> |
-| 📚 Sorting Visualizer | Python + Tkinter | A program to visualize and compare sorting algorithms with multiple controls | <a href="https://github.com/Muhammad-Ahmed-GH/Sorting_Visualization_Python">Go</a> |
+| 💻 Personal Portfolio Website | HTML/CSS/JS | A modern, responsive personal portfolio website for showcasing projects, skills, and contact information. | <a href="https://github.com/Muhammad-Ahmed-GH/My_Personal_Portfolio_Website">Go</a> |
+| 🎨 Kasper Template | HTML/CSS | A clean, modern, and stylish HTML & CSS template suitable for creative agencies, portfolios, landing pages, and personal websites. | <a href="https://github.com/Muhammad-Ahmed-GH/Kasper_HTML_CSS_Template_2">Go</a> |
+| ⭐ Leon Template | HTML/CSS | Leon is a modern, minimal, and creative HTML & CSS template designed for agencies, freelancers, and creative professionals. | <a href="https://github.com/Muhammad-Ahmed-GH/Leon_HTML_CSS_Template_1">Go</a> |
+| 🧩 Mini Projects | HTML/CSS/ | This project includes some basic HTML, CSS and projects. I grouped them here to make a bigger and more useful utility. | <a href="https://github.com/Muhammad-Ahmed-GH/My_Mini_Projects">Go</a> |
 | 🏦 Bank Management System | C++ | A command-line program with 2 core systems: admin-side system and client-side system | <a href="https://github.com/Muhammad-Ahmed-GH/Bank_Management_System_Cpp">Go</a> |
-| 🎓 University Management System | C++ | A program to manage basic operations in a university - Applying OOP and data structures principles | <a href="https://github.com/Muhammad-Ahmed-GH/University_Management_System_Cpp">Go</a> |
-| 🏥 Hospital Management System | C | A command-line program handling basic operations in a hospital | <a href="https://github.com/Muhammad-Ahmed-GH/Hospital_Management_System_C">Go</a> |
-| 🧩 Image Matching Game | Python + Pygame | An image matching desgined with Pygame that basically depends on memory | <a href="https://github.com/Muhammad-Ahmed-GH/Image_Matching_Game_Python">Go</a> |
-
-> 🔗 *Full project links coming soon once organized!*
+| 🧾 Student Management System | Java | A system with GUI to manage student records | <a href="https://github.com/Muhammad-Ahmed-GH/Student_Record_Management_System_Java">Go</a> |
 
 ---
 
