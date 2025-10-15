@@ -11,6 +11,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **Third-year CS student at Nile University**
+- 📈 GPA: **4.0**
 - 🏅 Passionate about building efficient, clean, and elegant solutions
 - 🌐 Focused on **Web Development**
 - 💻 Strong background in:  
@@ -71,13 +72,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 📌 Extras
-
-- 📈 GPA: **4.0**
-- 🌱 Currently learning **CSS** and **JavaScript**
 
 ---
 
