@@ -50,7 +50,7 @@
 | 💻 Personal Portfolio Website | HTML/CSS/JS | A modern, responsive personal portfolio website for showcasing projects, skills, and contact information. | <a href="https://github.com/Muhammad-Ahmed-GH/My_Personal_Portfolio_Website">Go</a> |
 | 🎨 Kasper Template | HTML/CSS | A clean, modern, and stylish HTML & CSS template suitable for creative agencies, portfolios, landing pages, and personal websites. | <a href="https://github.com/Muhammad-Ahmed-GH/Kasper_HTML_CSS_Template_2">Go</a> |
 | ⭐ Leon Template | HTML/CSS | Leon is a modern, minimal, and creative HTML & CSS template designed for agencies, freelancers, and creative professionals. | <a href="https://github.com/Muhammad-Ahmed-GH/Leon_HTML_CSS_Template_1">Go</a> |
-| 🧩 Mini Projects | HTML/CSS/ | This project includes some basic HTML, CSS and projects. I grouped them here to make a bigger and more useful utility. | <a href="https://github.com/Muhammad-Ahmed-GH/My_Mini_Projects">Go</a> |
+| 🧩 Mini Projects | HTML/CSS/JS | This project includes some basic HTML, CSS and projects. I grouped them here to make a bigger and more useful utility. | <a href="https://github.com/Muhammad-Ahmed-GH/My_Mini_Projects">Go</a> |
 | 🏦 Bank Management System | C++ | A command-line program with 2 core systems: admin-side system and client-side system | <a href="https://github.com/Muhammad-Ahmed-GH/Bank_Management_System_Cpp">Go</a> |
 | 🧾 Student Management System | Java | A system with GUI to manage student records | <a href="https://github.com/Muhammad-Ahmed-GH/Student_Record_Management_System_Java">Go</a> |
 
